@@ -1,11 +1,14 @@
 # New Note Taker
 This application is used to write & save notes,
-using Express.js back end, saving & retrieving note data from a JSON file.
+
+using Express.js back-end, 
+
+saving & retrieving note data from a JSON file.
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   # Table of Contents
-  
+
   * [Description](#description)
   * [Installation](#innodestallation)
   * [Usage](#usage)
@@ -38,7 +41,7 @@ using Express.js back end, saving & retrieving note data from a JSON file.
   
   Questions? Contact me at [BrongoArtDecor@gmail.com](mailto:BrongoArtDecor@gmail.com)
   
-  Link to GitHub profile for [Ev3ryTh1ngN1c3](https://github.com/Ev3ryTh1ngN1c3)
+  GitHub profile : [Ev3ryTh1ngN1c3](https://github.com/Ev3ryTh1ngN1c3)
 
 
  
