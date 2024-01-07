@@ -1,8 +1,5 @@
 # New Note Taker
-This application is used to write & save notes,
-using Express.js back-end, 
-
-while saving & retrieving data from a JSON file.
+This application is used to write & save notes,using Express.js back-end, while saving & retrieving data from a JSON file.
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
