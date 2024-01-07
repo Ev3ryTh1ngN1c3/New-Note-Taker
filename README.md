@@ -10,7 +10,7 @@ while saving & retrieving data from a JSON file.
   * [Description](#description)
   * [Installation](#innodestallation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
+  
   * [Questions](#questions)
 
   - [Project Motivation](#project-motivation)
@@ -34,6 +34,8 @@ while saving & retrieving data from a JSON file.
   ## Contributing
 
   
+  ## Acknowledgements
+
   
   ## Questions
   
