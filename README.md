@@ -35,8 +35,9 @@ while saving & retrieving data from a JSON file.
 
   
   ## Acknowledgements
-
   
+thank you to Thomas Calle : https://github.com/ThomasCalle
+
   ## Questions
   
   Contact me at : [BrongoArtDecor@gmail.com](mailto:BrongoArtDecor@gmail.com)
