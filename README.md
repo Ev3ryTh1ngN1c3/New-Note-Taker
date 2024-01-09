@@ -30,13 +30,13 @@ while saving & retrieving data from a JSON file.
   
   ## Usage 
 
-Open the Note Taker
+  Open the Note Taker
 
-Click on the link to the notes page
+  Click on the link to the notes page
 
-Eenter a new note title & note’s text
+  Enter a new note title & note’s text
 
-Save or Clear notes
+  Save or Clear notes
 
 
 ## Contributing
