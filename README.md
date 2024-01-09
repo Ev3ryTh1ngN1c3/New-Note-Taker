@@ -10,12 +10,8 @@ while saving & retrieving data from a JSON file.
   * [Description](#description)
   * [Installation](#innodestallation)
   * [Usage](#usage)
-  
-
-
-  - [Project Motivation](#project-motivation)
-- [What Was Learned](#what-was-learned)
-- [Setup](#setup)
+  * [Project Motivation](#project-motivation)
+  * [What Was Learned](#what-was-learned)
   * [Acknowledgments](#acknowledgments)
   * [Questions](#questions)
   
@@ -23,25 +19,29 @@ while saving & retrieving data from a JSON file.
   
   ## Description
   
-  An application to write & save notes
+  An application to write & save notes.
 
   ## Installation
   
   
   ## Usage 
 
-  Open the Note Taker
+  Open the Note Taker.
 
-  Click on the link to the notes page
+  Click on the link to the notes page.
 
-  Enter a new note title & note’s text
+  Enter a new note title & note’s text.
 
-  Save or Clear notes
+  Save or Clear notes.
 
+  ## Project Motivation
 
-  ## Contributing
+  An application with a db.json file on the back end used to store & retrieve notes using the fs module.
 
-  
+  ## What Was Learned
+
+  How to handle DELETE requests by adding the DELETE route to the application. 
+
   ## Acknowledgements
   
   thank you to Thomas Calle : https://github.com/ThomasCalle
