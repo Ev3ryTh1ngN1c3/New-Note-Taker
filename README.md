@@ -39,12 +39,12 @@ while saving & retrieving data from a JSON file.
   Save or Clear notes
 
 
-## Contributing
+  ## Contributing
 
   
   ## Acknowledgements
   
-thank you to Thomas Calle : https://github.com/ThomasCalle
+  thank you to Thomas Calle : https://github.com/ThomasCalle
 
   ## Questions
   
