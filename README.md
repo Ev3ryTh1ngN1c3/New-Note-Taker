@@ -11,27 +11,35 @@ while saving & retrieving data from a JSON file.
   * [Installation](#innodestallation)
   * [Usage](#usage)
   
-  * [Questions](#questions)
+
 
   - [Project Motivation](#project-motivation)
 - [What Was Learned](#what-was-learned)
 - [Setup](#setup)
-- [Usage Instructions](#usage-instructions)
-- [Acknowledgments](#acknowledgments)
+  * [Acknowledgments](#acknowledgments)
+  * [Questions](#questions)
   
  
   
   ## Description
   
-  
+  An application to write & save notes
+
   ## Installation
   
   
   ## Usage 
-  
-  
 
-  ## Contributing
+Open the Note Taker
+
+Click on the link to the notes page
+
+Eenter a new note title & note’s text
+
+Save or Clear notes
+
+
+## Contributing
 
   
   ## Acknowledgements
