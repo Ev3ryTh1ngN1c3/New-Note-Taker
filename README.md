@@ -40,8 +40,8 @@
   ## Acknowledgements
   
   thank you to Thomas Calle : https://github.com/ThomasCalle
-                
-                ZacharyBinx : https://github.com/ZacharyBinx
+
+  ZacharyBinx : https://github.com/ZacharyBinx
 
   ## Questions
   
