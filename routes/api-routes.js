@@ -28,7 +28,7 @@ router.post("/api/notes", (req, res) => {
 // Finally, it sends the updated array as a JSON response.
 // Define a DELETE request to the /api/notes/:id endpoint:
 
-router.delete("api/notes/:id", (req, res) => {
+router.delete("/api/notes/:id", (req, res) => {
     let data = fs.readFileSync("db/db.json", "utf8");
     const dataJSON = JSON.parse(data);
     const newNotes = dataJSON.filter((note) => {
