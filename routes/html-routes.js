@@ -18,16 +18,16 @@ module.exports = router;
 
 // import & mount as middleware
 
-const express = require("express");
-const app = express();
-const htmlRoutes = require("./html.routes");
+// const express = require("express");
+// const app = express();
+// const htmlRoutes = require("./html.routes");
 
-// mount the HTML routes middleware
-app.use("/", htmlRoutes);
+// // mount the HTML routes middleware
+// app.use("/", htmlRoutes);
 
-// ... other middleware & routes ...
+// // ... other middleware & routes ...
 
-// start the server
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
-});
+// // start the server
+// app.listen(3000, () => {
+//   console.log("Server is running on port 3000");
+// });
