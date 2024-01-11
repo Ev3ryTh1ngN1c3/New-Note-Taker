@@ -46,5 +46,3 @@
   ## Questions
   
   Contact me at : [BrongoArtDecor@gmail.com](mailto:BrongoArtDecor@gmail.com)
-  
-  GitHub profile : [Ev3ryTh1ngN1c3](https://github.com/Ev3ryTh1ngN1c3)
