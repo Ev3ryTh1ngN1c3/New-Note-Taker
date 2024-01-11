@@ -43,6 +43,8 @@
 
   ZacharyBinx : https://github.com/ZacharyBinx
 
+  and UCF Tutor : Trinh Nguyen
+
   ## Questions
   
   Contact me at : [BrongoArtDecor@gmail.com](mailto:BrongoArtDecor@gmail.com)
