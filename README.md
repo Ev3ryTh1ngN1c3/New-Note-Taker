@@ -21,12 +21,9 @@
   
   ## Usage 
 
-  Open the Note Taker.
-
-  Click on the link to the notes page.
-
-  Enter a new note title & note’s text.
-
+  Open the Note Taker.<br>
+  Click on the link to the notes page. <br>
+  Enter a new note title & note’s text. <br>
   Save or Clear notes.
 
   ## Project Motivation
@@ -39,10 +36,8 @@
 
   ## Acknowledgements
   
-  thank you to Thomas Calle : https://github.com/ThomasCalle
-
-  ZacharyBinx : https://github.com/ZacharyBinx
-
+  thank you to Thomas Calle : https://github.com/ThomasCalle <br>
+  ZacharyBinx : https://github.com/ZacharyBinx <br>
   and UCF Tutor : Trinh Nguyen
 
   ## Questions
